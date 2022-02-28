@@ -1,0 +1,55 @@
+
+
+
+
+
+
+body{
+  height: 10000px;
+}
+
+div{
+  height: 600px;
+}
+
+.box01{
+  background-color: dodgerblue;
+}
+
+
+.box02{
+
+  background-color: orange;
+  background-image:url('../images/img01.jpg');
+  /*  선택자가 가지고 있는 공간보다 이미지가 작을 경우 전체를 반복  */
+}
+
+.box03{
+  background-color: dodgerblue;
+  background-image:url('../images/pt.gif');
+  background-repeat: no-repeat;
+  
+}
+
+
+.box04{
+  background-color: orange;
+  background-image:url('../images/img01.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

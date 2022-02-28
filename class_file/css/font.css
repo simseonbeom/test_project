@@ -1,0 +1,44 @@
+
+
+html{
+  /* font-size: 16px; */
+}
+
+@font-face{
+  /* src: url('../font/Babe.ttf'); */
+  /* font-family: 'babe'; */
+}
+
+div{
+  /* width: 150px; */
+  /* margin: 0 auto; */
+  /* font-family: "Arial" , sans-serif;   fallback font */
+  font-family: 'Smooch Sans', sans-serif;
+  /* font-family: 'babe',serif; */
+  color: red;
+  text-align: left;
+  letter-spacing: 0.025em;
+  line-height: 30px;
+  font-size: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
